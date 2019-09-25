@@ -110,7 +110,7 @@ This component is a container for your entire application. It creates a `history
 
 It also matches paths and updates the DOM with relevant components and JSX according to a given path.
 
-You can ready more about the history object here [https://reacttraining.com/react-router/web/api/history](https://reacttraining.com/react-router/web/api/history).
+You can read more about the history object here [https://reacttraining.com/react-router/web/api/history](https://reacttraining.com/react-router/web/api/history).
 
 **Route Component:**
 
